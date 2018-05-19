@@ -1,0 +1,11 @@
+{
+    "version": "1.4.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/itzg/rcon-cli/releases/download/1.4.0/rcon-cli_1.4.0_windows_amd64.tar.gz",
+            "bin": "rcon-cli.exe"
+        }
+    },
+    "license": "Apache2",
+    "description": "Enables REST-like access to HTML pages by scraping and parsing them into JSON"
+}
