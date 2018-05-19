@@ -1,0 +1,11 @@
+{
+    "version": "1.1.4",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/itzg/restify/releases/download/1.1.4/restify_1.1.4_windows_amd64.tar.gz",
+            "bin": "restify.exe"
+        }
+    },
+    "license": "Apache2",
+    "description": "Enables REST-like access to HTML pages by scraping and parsing them into JSON"
+}
