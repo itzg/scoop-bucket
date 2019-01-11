@@ -1,12 +1,12 @@
 {
-    "version": "1.4.2",
+    "version": "1.4.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/itzg/rcon-cli/releases/download/1.4.2/rcon-cli_1.4.2_windows_amd64.tar.gz",
+            "url": "https://github.com/itzg/rcon-cli/releases/download/1.4.3/rcon-cli_1.4.3_windows_amd64.tar.gz",
             "bin": [
                 "rcon-cli.exe"
             ],
-            "hash": "e210ce89564c603937646d144e53486330c17785e82698f86716dde714663307"
+            "hash": "4e8ea9c5c9824c7d731a0e54ce36893dbc317ec17ca70924eb34b64c0c220679"
         }
     },
     "license": "Apache2",
