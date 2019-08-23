@@ -1,12 +1,12 @@
 {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/itzg/set-property/releases/download/0.1.0/set-property_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/itzg/set-property/releases/download/0.1.1/set-property_0.1.1_windows_amd64.zip",
             "bin": [
                 "set-property.exe"
             ],
-            "hash": "cfda5bbbc3d0e9bae21aa044c5db3a6bac09eb275923798960bab7d0ccdbd855"
+            "hash": "e06a6fda44d9dec697f582493062b7fe7858d350c4c2ba41aac606de947c19c7"
         }
     },
     "license": "MIT",
