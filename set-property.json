@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/itzg/set-property/releases/download/0.1.0/set-property_0.1.0_windows_amd64.zip",
+            "bin": [
+                "set-property.exe"
+            ],
+            "hash": "cfda5bbbc3d0e9bae21aa044c5db3a6bac09eb275923798960bab7d0ccdbd855"
+        }
+    },
+    "license": "MIT",
+    "description": "Properties file manipulator that copies over a value from an environment variable optionally applying constraints and mappings\n"
+}
