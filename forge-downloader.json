@@ -1,12 +1,12 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/itzg/forge-downloader/releases/download/1.0.0/forge-downloader_1.0.0_Windows_x86_64.zip",
+            "url": "https://github.com/itzg/forge-downloader/releases/download/1.1.0/forge-downloader_1.1.0_Windows_x86_64.zip",
             "bin": [
                 "forge-downloader.exe"
             ],
-            "hash": "5b8aef9e2b0251cb91cb79e7115d8ed439da16f82c00b7d2f1e98984cd9319e0"
+            "hash": "02eadea9d96b6bbbd2cebf3f59036f2dba3f859e476ffdc2f85655479fb229a2"
         }
     },
     "license": "MIT",
