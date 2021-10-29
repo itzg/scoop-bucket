@@ -1,0 +1,27 @@
+{
+  "homepage": "https://github.com/itzg/prune-branches",
+  "description": "CLI tool that prunes local branches that no longer point to existing remote branches",
+  "version": "1.0.3",
+  "license": "MIT",
+  "url": "https://github.com/itzg/prune-branches/releases/download/v1.0.3/prune-branches-1.0.3.zip",
+  "hash": "sha256:0d9d12c4ddc8707e402b51f72d0afe1392bdf53f2431d38b3e078da164b04a55",
+  "extract_dir": "prune-branches-1.0.3",
+  "env_add_path": "bin",
+  "suggest": {
+    "JDK": [
+      "java/oraclejdk",
+      "java/openjdk"
+    ]
+  },
+  "checkver": {
+    "url": "https://github.com/itzg/prune-branches/releases/latest",
+    "re": "v([\\d.]+).zip"
+  },
+  "autoupdate": {
+    "url": "https://github.com/itzg/prune-branches/releases/download/v$version/prune-branches-$version.zip",
+    "extract_dir": "prune-branches-$version",
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}

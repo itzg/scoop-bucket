@@ -1,13 +1,17 @@
-# Usage
+# Scoop Manifests
 
-Add this repository as a bucket:
+## How do I install these tools?
+
+1. Install [scoop](https://github.com/lukesampson/scoop).
+
+2. Add this bucket to scoop:
 
 ```
 scoop bucket add itzg https://github.com/itzg/scoop-bucket.git
 ```
 
-Install an application from this bucket, such as:
+3. Install tools via `scoop install`:
 
 ```
-scoop install restify
+scoop install <toolName>
 ```
