@@ -1,0 +1,27 @@
+{
+  "homepage": "https://github.com/itzg/mc-image-helper",
+  "description": "mc-image-helper",
+  "version": "1.9.10",
+  "license": "MIT",
+  "url": "https://github.com/itzg/mc-image-helper/releases/download/v1.9.10/mc-image-helper-1.9.10.zip",
+  "hash": "sha256:143ae6d0d0a1cc8d4d859afa8c16bb8c3fe548454e3b307def464ad35851591e",
+  "extract_dir": "mc-image-helper-1.9.10",
+  "env_add_path": "bin",
+  "suggest": {
+    "JDK": [
+      "java/oraclejdk",
+      "java/openjdk"
+    ]
+  },
+  "checkver": {
+    "url": "https://github.com/itzg/mc-image-helper/releases/latest",
+    "re": "v([\\d.]+).zip"
+  },
+  "autoupdate": {
+    "url": "https://github.com/itzg/mc-image-helper/releases/download/v$version/mc-image-helper-$version.zip",
+    "extract_dir": "mc-image-helper-$version",
+    "hash": {
+      "url": "$url.sha256"
+    }
+  }
+}
