@@ -1,0 +1,14 @@
+{
+    "version": "0.10.6",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/itzg/mc-monitor/releases/download/0.10.6/mc-monitor_0.10.6_windows_amd64.zip",
+            "bin": [
+                "mc-monitor.exe"
+            ],
+            "hash": "49fd2f600f5f37f69ed3fde28b91f6a71cf824c225bd504babd72c03aa1324e3"
+        }
+    },
+    "license": "MIT",
+    "description": "Command/agent to monitor the status of Minecraft servers"
+}
