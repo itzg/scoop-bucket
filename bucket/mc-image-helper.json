@@ -1,11 +1,11 @@
 {
   "homepage": "https://github.com/itzg/mc-image-helper",
   "description": "mc-image-helper",
-  "version": "1.15.1",
+  "version": "1.15.2",
   "license": "MIT",
-  "url": "https://github.com/itzg/mc-image-helper/releases/download/v1.15.1/mc-image-helper-1.15.1.zip",
-  "hash": "sha256:c631fb86d9e8558d748492d594d659a1d96b872c6f8bbb73adc804bc87db24d0",
-  "extract_dir": "mc-image-helper-1.15.1",
+  "url": "https://github.com/itzg/mc-image-helper/releases/download/v1.15.2/mc-image-helper-1.15.2.zip",
+  "hash": "sha256:24840dffd3d65239a806aa36d904b9c2c2c276b426edd9c754acd24c10420e3a",
+  "extract_dir": "mc-image-helper-1.15.2",
   "env_add_path": "bin",
   "suggest": {
     "JDK": [
