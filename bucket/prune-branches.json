@@ -1,27 +1,3 @@
 {
-  "homepage": "https://github.com/itzg/prune-branches",
-  "description": "Prunes local git branches without remote branch",
-  "version": "1.3.0",
-  "license": "MIT",
-  "url": "https://github.com/itzg/prune-branches/releases/download/v1.3.0/prune-branches-1.3.0.zip",
-  "hash": "sha256:3b309c440dc6b9d4c54621d202183c6165e4ee39fc7eb743baa2f0895e600077",
-  "extract_dir": "prune-branches-1.3.0",
-  "env_add_path": "bin",
-  "suggest": {
-    "JDK": [
-      "java/oraclejdk",
-      "java/openjdk"
-    ]
-  },
-  "checkver": {
-    "url": "https://github.com/itzg/prune-branches/releases/latest",
-    "re": "v([\\d.]+).zip"
-  },
-  "autoupdate": {
-    "url": "https://github.com/itzg/prune-branches/releases/download/v$version/prune-branches-$version.zip",
-    "extract_dir": "prune-branches-$version",
-    "hash": {
-      "url": "$url.sha256"
-    }
-  }
+    
 }
