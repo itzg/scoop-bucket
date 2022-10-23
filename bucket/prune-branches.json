@@ -1,9 +1,9 @@
 {
-    "version": "1.3.3",
-    "url": "https://github.com/itzg/prune-branches/releases/download/1.3.3/prune-branches-1.3.3.zip",
-    "hash": "sha256:b2792248e478458b7045fac79592c29248cd7b5958ed1784a5dbf3e882622f32",
+    "version": "1.3.4",
+    "url": "https://github.com/itzg/prune-branches/releases/download/1.3.4/prune-branches-1.3.4.zip",
+    "hash": "sha256:39d13c2c4aa2e5636f839d47ff2f804b93cc0e4ae7b5aacd0baece7340cae610",
     "bin": "bin/prune-branches.bat",
-    "extract_dir": "prune-branches-1.3.3",
+    "extract_dir": "prune-branches-1.3.4",
     "suggest": {
         "JRE": [
             "java/temurin-lts-jre"
