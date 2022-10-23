@@ -1,12 +1,13 @@
 {
-    "version": "1.3.4",
-    "url": "https://github.com/itzg/prune-branches/releases/download/1.3.4/prune-branches-1.3.4.zip",
-    "hash": "sha256:39d13c2c4aa2e5636f839d47ff2f804b93cc0e4ae7b5aacd0baece7340cae610",
+    "version": "1.3.5",
+    "url": "https://github.com/itzg/prune-branches/releases/download/1.3.5/prune-branches-1.3.5.zip",
+    "hash": "sha256:9fa34c2c31ad1017c4e4307356cf4bb28fc9609700e4d3e46827263144913e72",
     "bin": "bin/prune-branches.bat",
-    "extract_dir": "prune-branches-1.3.4",
+    "extract_dir": "prune-branches-1.3.5",
     "suggest": {
         "JRE": [
             "java/temurin-lts-jre"
         ]
-    }
+    },
+    "description": "Prunes local git branches without remote branch"
 }
