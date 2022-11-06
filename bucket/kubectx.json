@@ -17,5 +17,5 @@
         }
     },
     "homepage":  "https://kubectx.dev/",
-    "bin": [ ["kubectx.exe", "kubectl-ctx.exe"] ]
+    "bin": [ ["kubectx.exe", "kubectl-ctx"] ]
 }
