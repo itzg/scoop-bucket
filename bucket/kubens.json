@@ -16,5 +16,5 @@
         }
     },
     "homepage":  "https://kubectx.dev/",
-    "bin":  "kubens.exe"
+    "bin":  [ ["kubens.exe", "kubectl-ns.exe"] ]
 }
