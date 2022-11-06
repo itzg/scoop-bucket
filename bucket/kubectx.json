@@ -1,0 +1,21 @@
+{
+    "version":  "0.9.4",
+    "license":  "Apache-2.0",
+    "extract_dir":  "",
+    "url":  "https://github.com/ahmetb/kubectx/releases/download/v0.9.4/kubectx_v0.9.4_windows_x86_64.zip",
+    "checkver": {
+        "github": "https://github.com/ahmetb/kubectx"
+    },
+    "autoupdate": {
+        "architecture": {
+            "64bit": {
+                "url": "https://github.com/ahmetb/kubectx/releases/download/v$version/kubectx_v$version_windows_x86_64.zip"
+            }
+        },
+        "hash": {
+            "url": "https://github.com/ahmetb/kubectx/releases/download/v$version/checksums.txt"
+        }
+    },
+    "homepage":  "https://kubectx.dev/",
+    "bin":  "kubectx.exe"
+}
