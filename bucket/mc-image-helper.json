@@ -1,27 +1,13 @@
 {
-  "homepage": "https://github.com/itzg/mc-image-helper",
-  "description": "mc-image-helper",
-  "version": "1.16.11",
-  "license": "MIT",
-  "url": "https://github.com/itzg/mc-image-helper/releases/download/v1.16.11/mc-image-helper-1.16.11.zip",
-  "hash": "sha256:575781b63d50311b19cd63ef041ff5482e5accedab3836bd5722b75deef0ade4",
-  "extract_dir": "mc-image-helper-1.16.11",
-  "env_add_path": "bin",
-  "suggest": {
-    "JDK": [
-      "java/oraclejdk",
-      "java/openjdk"
-    ]
-  },
-  "checkver": {
-    "url": "https://github.com/itzg/mc-image-helper/releases/latest",
-    "re": "v([\\d.]+).zip"
-  },
-  "autoupdate": {
-    "url": "https://github.com/itzg/mc-image-helper/releases/download/v$version/mc-image-helper-$version.zip",
-    "extract_dir": "mc-image-helper-$version",
-    "hash": {
-      "url": "$url.sha256"
-    }
-  }
+    "version": "1.22.9",
+    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.22.9/mc-image-helper-1.22.9.zip",
+    "hash": "sha256:635b9e465816c4bf539935ca7ad914c07fa703c5e2ec1bbfe54ae1e262051d41",
+    "bin": "bin/mc-image-helper.bat",
+    "extract_dir": "mc-image-helper-1.22.9",
+    "suggest": {
+        "JRE": [
+            "java/temurin-lts-jre"
+        ]
+    },
+    "description": "mc-image-helper"
 }
