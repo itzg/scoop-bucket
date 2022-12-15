@@ -1,9 +1,9 @@
 {
-    "version": "1.0-SNAPSHOT",
-    "url": "https://github.com/itzg/file-tree-as-json/releases/download/1.0.1/file-tree-as-json-1.0-SNAPSHOT.zip",
-    "hash": "sha256:a49f46a74a19735adb3440ada48d095e4e6e2df28e423cd8fefd72a263598935",
+    "version": "1.0.2",
+    "url": "https://github.com/itzg/file-tree-as-json/releases/download/1.0.2/file-tree-as-json-1.0.2.zip",
+    "hash": "sha256:50962085f8e3bbb51bee6be301474a7408453c642e13b84bb4d48da682e81ba6",
     "bin": "bin/file-tree-as-json.bat",
-    "extract_dir": "file-tree-as-json-1.0-SNAPSHOT",
+    "extract_dir": "file-tree-as-json-1.0.2",
     "suggest": {
         "JRE": [
             "java/temurin-lts-jre"
