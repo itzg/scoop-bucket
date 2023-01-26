@@ -1,9 +1,9 @@
 {
-    "version": "1.24.13",
-    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.24.13/mc-image-helper-1.24.13.zip",
-    "hash": "sha256:24c6e828206504ef0efe745fffb3e8d36b9bfe907e070d27400ef249f20d31fa",
+    "version": "1.24.14",
+    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.24.14/mc-image-helper-1.24.14.zip",
+    "hash": "sha256:9cc08edea4fa743a2dcb45708b00d8557968e0c56e38fa63397f6b3010eb7bed",
     "bin": "bin/mc-image-helper.bat",
-    "extract_dir": "mc-image-helper-1.24.13",
+    "extract_dir": "mc-image-helper-1.24.14",
     "suggest": {
         "JRE": [
             "java/temurin-lts-jre"
