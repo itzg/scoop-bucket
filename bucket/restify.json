@@ -1,12 +1,12 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/itzg/restify/releases/download/1.6.0/restify_1.6.0_windows_amd64.tar.gz",
+            "url": "https://github.com/itzg/restify/releases/download/1.6.1/restify_1.6.1_windows_amd64.tar.gz",
             "bin": [
                 "restify.exe"
             ],
-            "hash": "3ee1e21cafdc200ca9dfd899e91e6c83938339cf653a37a30fa57a5b25e8d8df"
+            "hash": "41223cfac05f28208cd83366578529953efe6afb255d8fc2d648968cb228f990"
         }
     },
     "license": "Apache2",
