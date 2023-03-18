@@ -1,7 +1,7 @@
 {
     "version": "1.12.14",
-    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.12.14/mc-image-helper-1.12.14.zip",
-    "hash": "sha256:f9954adcf69a9ef2e391803a736b054e6ab6daa6dc32a8048df8d14fb481adde",
+    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.25.14/mc-image-helper-1.12.14.zip",
+    "hash": "sha256:d4fba5aaa71ed027106767e24bd5263f0143ad5c301067ab1ee760caed327781",
     "bin": "bin/mc-image-helper.bat",
     "extract_dir": "mc-image-helper-1.12.14",
     "suggest": {
