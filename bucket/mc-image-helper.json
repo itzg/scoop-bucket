@@ -1,7 +1,7 @@
 {
     "version": "1.25.20-rc1",
-    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.25.20-rc1/mc-image-helper-1.25.20-rc1.zip",
-    "hash": "sha256:458bdfe640229b494f136177b84cacc204f49c5bcc48e1a07d3dbacdb0a06f33",
+    "url": "https://github.com/itzg/mc-image-helper/releases/download/1.25.20/mc-image-helper-1.25.20-rc1.zip",
+    "hash": "sha256:745d5df5d8b6f5bd9ff79fbf23fa3ef4b5180f165736f9abfc36ae0767968988",
     "bin": "bin/mc-image-helper.bat",
     "extract_dir": "mc-image-helper-1.25.20-rc1",
     "suggest": {
