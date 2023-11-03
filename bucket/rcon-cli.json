@@ -1,19 +1,26 @@
 {
-    "version": "1.6.2",
+    "version": "1.6.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/itzg/rcon-cli/releases/download/1.6.2/rcon-cli_1.6.2_windows_386.tar.gz",
+            "url": "https://github.com/itzg/rcon-cli/releases/download/1.6.3/rcon-cli_1.6.3_windows_386.tar.gz",
             "bin": [
                 "rcon-cli.exe"
             ],
-            "hash": "813b6a2f7021b79b3dd0e9aebdc3bba4eaffe8603f1b94fb828bcdb390980d38"
+            "hash": "8acb4d33be51a968dd2346ade261e8fecc68049a7ab4a8156feaa93926d7fd1b"
         },
         "64bit": {
-            "url": "https://github.com/itzg/rcon-cli/releases/download/1.6.2/rcon-cli_1.6.2_windows_amd64.tar.gz",
+            "url": "https://github.com/itzg/rcon-cli/releases/download/1.6.3/rcon-cli_1.6.3_windows_amd64.tar.gz",
             "bin": [
                 "rcon-cli.exe"
             ],
-            "hash": "cda71cff8e029b27f699973886e31cfaadc401fc66894bfece34bb3a2ffe8c36"
+            "hash": "1e3f01dd1d1bf5719cbbff3eb505cea2c1a9018d5d3bd3e8486804d41949c7e1"
+        },
+        "arm64": {
+            "url": "https://github.com/itzg/rcon-cli/releases/download/1.6.3/rcon-cli_1.6.3_windows_arm64.tar.gz",
+            "bin": [
+                "rcon-cli.exe"
+            ],
+            "hash": "5c8f54b81fa27243b13d8e224e6ba9e5073f263bbe3fa965663513853ecb3211"
         }
     },
     "license": "Apache2",
